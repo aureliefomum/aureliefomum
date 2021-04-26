@@ -12,10 +12,6 @@
 
 - 📫 How to reach me **edwigefomum@gmail.com**
 
-## TOP PROGRAMMING LANGUAGES
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliefomum&theme=radical&title_color=8E2DE2&text_color=fff)
-
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=aureliefomum&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
 |---|---|
