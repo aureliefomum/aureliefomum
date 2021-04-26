@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **edwigefomum@gmail.com**
+- 📫 How to reach me **azam_aurelie@yahoo.com**
 
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=aureliefomum&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
@@ -57,7 +57,6 @@
   
 ### DevOps  
 <div align="center">  
-<img src=https://img.shields.io/badge/-AWS-%23232F3E?style=plastic&logo=amazon%20aws&logoColor=white alt=AWS />
 <img src=https://img.shields.io/badge/-Azure-%230089D6?style=plastic&logo=microsoft%20azure&logoColor=white alt=Azure />
 <img src=https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=plastic&logo=google%20cloud&logoColor=white alt='Google Cloud' />
 </div>
