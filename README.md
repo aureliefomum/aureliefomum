@@ -1,7 +1,9 @@
 <img align="center" src = "https://github.com/aureliefomum/aureliefomum/blob/main/Github%20Banner.png"/>
 <h1 align="center">Hi 👋, I'm Aurelie</h1>
-<h3 align="center">A software engineer based in Rio de Janeiro,Brasil</h3>
+<h3 align="center">A software engineer based in Rio de Janeiro,Brazil</h3>
 
+
+## ABOUT ME
 - 🔭 I’m currently working on **a plant-care app**
 
 - 🌱 I’m currently learning **React.js and Next.js**
@@ -9,6 +11,16 @@
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **edwigefomum@gmail.com**
+
+## TOP PROGRAMMING LANGUAGES
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliefomum&theme=radical&title_color=8E2DE2&text_color=fff)
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=aureliefomum&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+|---|---|
+
+## CONNECT WITH ME
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
