@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aureliefomum&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
 |---|---|
 
-## CONNECT WITH ME
+## FIND ME AROUND THE WEB
 [![Linkedin Badge](https://img.shields.io/badge/-aureliefomum-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aureliefomum/)](https://www.linkedin.com/in/aureliefomum/)
 <a href="#"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 [![Twitter Badge](https://img.shields.io/badge/-azamfomum-orange?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/AzamFomum)](https://twitter.com/AzamFomum)
@@ -41,8 +41,6 @@
 <img src=https://img.shields.io/badge/-React-%2361DAFB?style=plastic&logo=react&logoColor=black alt=React />
 <img src=https://img.shields.io/badge/-TypeScript-%233178C6?style=plastic&logo=typescript&logoColor=white alt=TypeScript />
 <img src=https://img.shields.io/badge/-WordPress-%2321759B?style=plastic&logo=wordpress&logoColor=white alt=WordPress />
-<img src=https://img.shields.io/badge/-Photoshop-%2331A8FF?style=plastic&logo=adobe-photoshop&logoColor=white alt='Adobe Photoshop' />
-<img src=https://img.shields.io/badge/-Illustrator-%23FF9A00?style=plastic&logo=adobe-illustrator&logoColor=white alt='Adobe Illustrator' />
 </div>
 </td>
 <td valign="top" width="33%">
@@ -54,7 +52,6 @@
 <img src=https://img.shields.io/badge/-Git-%23F05032?style=plastic&logo=git&logoColor=white alt=Git />
 <img src=https://img.shields.io/badge/-GitHub-%23181717?style=plastic&logo=github alt=GitHub />
 <img src=https://img.shields.io/badge/-MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=white alt=MongoDB />
-<img src=https://img.shields.io/badge/-MySQL-%234479A1?style=plastic&logo=mysql&logoColor=white alt=MySQL />
 <img src=https://img.shields.io/badge/-VS%20Code-%23007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white alt='VS Code' />
 <img src=https://img.shields.io/badge/-Heroku-%23430098?style=plastic&logo=heroku&logoColor=white alt=Heroku />
 <img src=https://img.shields.io/badge/-Postman-%23FF6C37?style=plastic&logo=postman&logoColor=white alt=Postman />
