@@ -1,4 +1,4 @@
-<img align="center" src ="https">
+<img align="center" src = "https://github.com/aureliefomum/aureliefomum/blob/main/Github%20Banner.png"/>
 <h1 align="center">Hi 👋, I'm Aurelie</h1>
 <h3 align="center">A software engineer based in Rio de Janeiro,Brasil</h3>
 
