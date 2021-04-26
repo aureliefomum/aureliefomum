@@ -1,4 +1,4 @@
-
+<img align="center" src ="https">
 <h1 align="center">Hi 👋, I'm Aurelie</h1>
 <h3 align="center">A software engineer based in Rio de Janeiro,Brasil</h3>
 
