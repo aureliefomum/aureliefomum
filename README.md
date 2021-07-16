@@ -14,7 +14,7 @@
 
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=aureliefomum&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aureliefomum&theme=radical"/>|
-|---|---|
+
 
 ## FIND ME AROUND THE WEB
 [![Linkedin Badge](https://img.shields.io/badge/-aureliefomum-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aureliefomum/)](https://www.linkedin.com/in/aureliefomum/)
