@@ -1,6 +1,6 @@
 <img align="center" src = "https://github.com/aureliefomum/aureliefomum/blob/main/Github%20Banner.png"/>
 <h1 align="center">Hi 👋, I'm Aurelie</h1>
-<h3 align="center">A software engineer based in Rio de Janeiro,Brazil</h3>
+<h3 align="center">I am a self-taught web developer based in Rio de Janeiro, I enjoy working on full stack projects using JavaScript and frameworks such as React.js, Next.js. </h3>
 
 
 ## ABOUT ME
