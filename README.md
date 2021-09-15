@@ -4,7 +4,6 @@
 
 
 ## ABOUT ME
-- 🔭 I’m currently working on **a plant-care app**
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
