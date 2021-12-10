@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **azam_aurelie@yahoo.com**
 
+- ⚡ Fun facts: I speak four languages, English, French and Portuguese and Yemba(my tribal dialect, spoken by the Bamileke people of Camroon). I love solving crossword puzzles and reading cartoon strips.  
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=aureliefomum&&show_icons=true&count_private=true&theme=radical"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=aureliefomum&theme=radical"/>
 
