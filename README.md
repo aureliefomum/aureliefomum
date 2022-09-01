@@ -20,7 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-aureliefomum-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aureliefomum/)](https://www.linkedin.com/in/aureliefomum/)
 <a href="#"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
 [![Twitter Badge](https://img.shields.io/badge/-azamfomum-orange?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/AzamFomum)](https://twitter.com/AzamFomum)
-<a href="https://aureliefomum.netlify.app/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
+<a href="https://aureliefomum.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
 [![Codepen Badge](https://img.shields.io/badge/MyCodepen-purple?style=plastic-square&logo=codepen&logoColor=white&link=https://codepen.io/anea1976)](https://codepen.io/anea1976)
 
 
